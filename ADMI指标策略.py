@@ -3,6 +3,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 #部分内容被修改！
+#修改
 # 策略代码总共分为三大部分，1)PARAMS变量 2)initialize函数 3)handle_data函数
 # 请根据指示阅读。或者直接点击运行回测按钮，进行测试，查看策略效果。
 
